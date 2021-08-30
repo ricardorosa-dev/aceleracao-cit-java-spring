@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Java-Spring"/>
+			<item value="eclipse-workspace"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Java-Spring"/>
+			<item value="eclipse-workspace"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/ricardorosa/Documents/Extra-exercises/rest-service-cors"/>
+			<item value="/home/ricardorosa/Downloads/Bob"/>
+			<item value="/home/ricardorosa/Downloads/bababa/demos"/>
+			<item value="/home/ricardorosa/Documents/Extra-exercises/demo"/>
+			<item value="/home/ricardorosa/codenation/java-9"/>
+			<item value="/home/ricardorosa/Documents/projetos/codenation-spring/backend/AceleracaoCodenation"/>
+			<item value="/home/ricardorosa/Java/CRUD"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

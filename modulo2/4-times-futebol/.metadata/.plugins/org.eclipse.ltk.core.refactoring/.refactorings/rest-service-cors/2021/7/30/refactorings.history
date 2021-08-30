@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.example.restservicecors.Greetings.java&apos; to &apos;Greeting.java&apos;&#x0A;- Original project: &apos;rest-service-cors&apos;&#x0A;- Original element: &apos;com.example.restservicecors.Greetings.java&apos;&#x0A;- Renamed element: &apos;com.example.restservicecors.Greeting.java&apos;" description="Rename compilation unit &apos;Greetings.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.restservicecors{Greetings.java" name="Greeting.java" references="false" stamp="1627138277295" version="1.0"/>
+</session>
