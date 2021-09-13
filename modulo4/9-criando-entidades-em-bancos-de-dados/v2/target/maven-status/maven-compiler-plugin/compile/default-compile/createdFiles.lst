@@ -1,0 +1,14 @@
+com/challenge/controller/UserController.class
+com/challenge/repository/ChallengeRepository.class
+com/challenge/service/ChallengeService.class
+com/challenge/controller/AccelerationController.class
+com/challenge/SpringChallengeApplication.class
+com/challenge/entity/Auditable.class
+com/challenge/entity/User.class
+com/challenge/entity/Challenge.class
+com/challenge/controller/ChallengeController.class
+com/challenge/service/UserService.class
+com/challenge/repository/UserRepository.class
+com/challenge/repository/AccelerationRepository.class
+com/challenge/service/AccelerationService.class
+com/challenge/entity/Acceleration.class
