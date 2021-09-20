@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.challenge.suite.ChallengeTestSuite
+-------------------------------------------------------------------------------
+Tests run: 102, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 11.58 s <<< FAILURE! - in com.challenge.suite.ChallengeTestSuite
+checkPrimaryKeys(com.challenge.suite.CandidateTest)  Time elapsed: 0.165 s  <<< ERROR!
+java.lang.NullPointerException
+
+checkPrimaryKeysWithManyToOne(com.challenge.suite.SubmissionTest)  Time elapsed: 0.064 s  <<< ERROR!
+java.lang.NullPointerException
+
+checkPrimaryKeys(com.challenge.suite.SubmissionTest)  Time elapsed: 0.063 s  <<< ERROR!
+java.lang.NullPointerException
+
