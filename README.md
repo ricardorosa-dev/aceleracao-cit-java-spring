@@ -24,3 +24,17 @@ Conteúdo: Programação orientada a objetos, classes, encapsulamento, polimorfi
 ### Módulo 3 (30/Ago)
 Conteúdo: Interfaces, classes abstratas, Java Reflection, anotações.
 - Utilitário - Calculador de atributos de Classe
+
+### Módulo 4 (13/Set)
+Conteúdo: PostgreSQL, Hibernate, Spring Boot, SQL, Jpa.
+- Criando Entidades de Banco de Dados em Java
+
+### Módulo 5 (20/Set)
+Conteúdo: Annotations, Spring Data Jpa, Auditing, Jpa Query, Query Methods.
+- Criando e manipulando entidades no Banco de dados com Spring
+- Order Service
+
+### Módulo 6 (27/Set)
+Conteúdo: Bean Validation, @ResponseStatus, Error Handling, REST, APIs, Exception Handler.
+- Criando endpoints com Spring
+- Gerador de frases do Monty Python utilizando Spring Boot e JPA
