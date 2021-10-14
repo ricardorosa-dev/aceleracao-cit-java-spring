@@ -38,3 +38,11 @@ Conteúdo: Annotations, Spring Data Jpa, Auditing, Jpa Query, Query Methods.
 Conteúdo: Bean Validation, @ResponseStatus, Error Handling, REST, APIs, Exception Handler.
 - Criando endpoints com Spring
 - Gerador de frases do Monty Python utilizando Spring Boot e JPA
+
+### Módulo 7 (04/Out)
+Conteúdo: Autenticação e Autorização (Spring Security, Oauth2), Documentação (Spring Fox, Swagger)
+- Oauth2 com Spring
+
+### Módulo 8 (11/Out)
+Conteúdo: Princípios SOLID, Clean Code, TDD
+- Refatorando Formas de Pagamento
