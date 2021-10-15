@@ -46,3 +46,11 @@ Conteúdo: Autenticação e Autorização (Spring Security, Oauth2), Documentaç
 ### Módulo 8 (11/Out)
 Conteúdo: Princípios SOLID, Clean Code, TDD
 - Refatorando Formas de Pagamento
+
+### Módulo 9 (18/Out)
+Conteúdo: DevOps, CI/CD, Heroku Cloud, Maven Build, Deploy
+- Quiz Deploy aplicações Java
+
+### Projeto Final
+Central de Erros: API Rest para centralizar registros de erros de aplicações
+Repositório: https://github.com/Rafael-Javaro/Central_De_Erros
