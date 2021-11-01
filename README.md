@@ -2,9 +2,9 @@
 Repositório para agregar os arquivos e notas da aceleração de Java Spring Boot oferecida pela CI&amp;T.
 
 ---
-A aceleração tem duração de 10 semanas e visa o aprendizado da linguagem Java, com o framework Spring, e utilizando PostgreSQL para o banco de dados, para o desenvolvimento de aplicações Back-end. No final, desenvolveremos em grupo uma API de Log de Erros, como projeto prático, utilizando tudo o que aprendemos, mais as habilidades de cada um do grupo.
+A aceleração teve duração de 3 meses e visou o aprendizado da linguagem Java, com o framework Spring, e utilizando PostgreSQL para o banco de dados, para o desenvolvimento de aplicações Back-end. No final, desenvolveremos em grupo uma API de Log de Erros, como projeto prático, utilizando tudo o que aprendemos, mais as habilidades de cada um do grupo.
 
-Duração prevista: 16 de Agosto a Outubro de 2021
+Duração: 16 de Agosto a 8 de Novembro de 2021
 
 ---
 ## Desafios
@@ -51,6 +51,8 @@ Conteúdo: Princípios SOLID, Clean Code, TDD
 Conteúdo: DevOps, CI/CD, Heroku Cloud, Maven Build, Deploy
 - Quiz Deploy aplicações Java
 
-### Projeto Final
+### Projeto Final (25/Out - 8/Nov)
 Central de Erros: API Rest para centralizar registros de erros de aplicações
-Repositório: https://github.com/Rafael-Javaro/Central_De_Erros
+Repositório Backend: https://github.com/Rafael-Javaro/Central_De_Erros
+Repositório Frontend: https://github.com/henriquebelias/Central-De-Erros-Front
+
