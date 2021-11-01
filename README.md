@@ -53,6 +53,6 @@ Conteúdo: DevOps, CI/CD, Heroku Cloud, Maven Build, Deploy
 
 ### Projeto Final (25/Out - 8/Nov)
 Central de Erros: API Rest para centralizar registros de erros de aplicações
-Repositório Backend: https://github.com/Rafael-Javaro/Central_De_Erros
-Repositório Frontend: https://github.com/henriquebelias/Central-De-Erros-Front
+- Repositório Backend: https://github.com/Rafael-Javaro/Central_De_Erros
+- Repositório Frontend: https://github.com/henriquebelias/Central-De-Erros-Front
 
